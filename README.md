@@ -1,0 +1,1 @@
+Gallery for my projects README materials, i.e. GIFs.
